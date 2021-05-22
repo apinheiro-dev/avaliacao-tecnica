@@ -1,0 +1,7 @@
+C:\Users\Shirlei\source\repos\Questao25\Questao25\bin\Debug\Questao25.exe.config
+C:\Users\Shirlei\source\repos\Questao25\Questao25\bin\Debug\Questao25.exe
+C:\Users\Shirlei\source\repos\Questao25\Questao25\bin\Debug\Questao25.pdb
+C:\Users\Shirlei\source\repos\Questao25\Questao25\obj\Debug\Questao25.csprojAssemblyReference.cache
+C:\Users\Shirlei\source\repos\Questao25\Questao25\obj\Debug\Questao25.csproj.CoreCompileInputs.cache
+C:\Users\Shirlei\source\repos\Questao25\Questao25\obj\Debug\Questao25.exe
+C:\Users\Shirlei\source\repos\Questao25\Questao25\obj\Debug\Questao25.pdb
